@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    background-color: red;
+}
+a {
+    text-decoration: none;
+}
+header .Bienvenue {
+    background-color: darkturquoise;
+    float: left;
+}
